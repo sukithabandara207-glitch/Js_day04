@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Smart Watch",
+        "description": "Modern smart watch with fitness tracking.",
+        "price": 12500,
+        "image": "https://via.placeholder.com/300x200?text=Smart+Watch"
+    },
+
+    {
+        "id": 2,
+        "name": "Wireless Headphones",
+        "description": "High quality wireless headphones.",
+        "price": 8500,
+        "image": "https://via.placeholder.com/300x200?text=Headphones"
+    },
+
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "description": "Comfortable shoes for running and sports.",
+        "price": 12000,
+        "image": "https://via.placeholder.com/300x200?text=Running+Shoes"
+    },
+
+    {
+        "id": 4,
+        "name": "Smart Phone",
+        "description": "Powerful smartphone with modern features.",
+        "price": 85000,
+        "image": "https://via.placeholder.com/300x200?text=Smart+Phone"
+    },
+
+    {
+        "id": 5,
+        "name": "Laptop",
+        "description": "Fast laptop for work and study.",
+        "price": 185000,
+        "image": "https://via.placeholder.com/300x200?text=Laptop"
+    },
+
+    {
+        "id": 6,
+        "name": "Backpack",
+        "description": "Durable backpack for everyday use.",
+        "price": 6500,
+        "image": "https://via.placeholder.com/300x200?text=Backpack"
+    },
+
+    {
+        "id": 7,
+        "name": "Bluetooth Speaker",
+        "description": "Portable speaker with powerful sound.",
+        "price": 7500,
+        "image": "https://via.placeholder.com/300x200?text=Speaker"
+    },
+
+    {
+        "id": 8,
+        "name": "Gaming Mouse",
+        "description": "High precision mouse for gaming.",
+        "price": 4500,
+        "image": "https://via.placeholder.com/300x200?text=Gaming+Mouse"
+    }
+]
